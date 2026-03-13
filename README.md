@@ -24,7 +24,7 @@ researcher = {
                     "Explainable AI (XAI)", "Multimodal Perception"],
     "publication": "ICECET 2026 — Post-Hoc Explainability for Generative Volumetric VLMs",
     "club"       : "Debug Scientific Club",
-    "location"   : "Biskra, Algeria",
+    "location"   : "Biskra, Algeria 🇩🇿",
 }
 ```
 
@@ -35,23 +35,22 @@ My research sits at the intersection of **deep learning transparency** and **cli
 
 ## Highlights
 
-| | |
+| 🥇 | National Winner — Huawei ICT Competition, Cloud Track (2025) |
 |---|---|
-| National Winner | Huawei ICT Competition, Cloud Track (2025) |
-| 3rd Place | National AI Hackathon, University of El Oued (2025) |
-| First-Author Paper | Accepted at **ICECET 2026**, Rome, Italy |
-| Team Lead | NASA Space Apps Challenge (2025) |
-| 3rd Place | CSBIS AI Competition, University of Mohamed Khider (2023) |
+| 🥉 | 3rd Place — National AI Hackathon, University of El Oued (2025) |
+| 📄 | First-Author Paper accepted @ **ICECET 2026**, Rome, Italy |
+| 🛰️ | Team Lead — NASA Space Apps Challenge (2025) |
+| 🥉 | 3rd Place — CSBIS AI Competition, University of Mohamed Khider (2023) |
 
 ---
 
-## Featured Projects
+## 🔬 Featured Projects
 
 <details>
 <summary><b>CT & MRI Multimodal Explainability for Generative Volumetric Models</b></summary>
 <br/>
 
-> Tied to the ICECET 2026 accepted paper.
+> *Tied to the ICECET 2026 accepted paper.*
 
 - Adapted post-hoc XAI techniques to **generative volumetric multimodal models**
 - Developed **modality-specific attribution alignment** and volumetric saliency aggregation across slices
@@ -68,7 +67,7 @@ My research sits at the intersection of **deep learning transparency** and **cli
 
 - Lightweight multimodal framework generating **pixel-accurate masks from free-text prompts**
 - Fused frozen **DINOv2** visual features with **CLIP** text embeddings via trainable SAM-based decoder (~9.3M params)
-- Trained on **RefCOCO** with multi-scale FPN fusion — best validation **IoU: 0.42**
+- Trained on **RefCOCO** with multi-scale FPN fusion → best validation **IoU: 0.42**
 - Documented failure modes; proposed **LoRA fine-tuning** + token-level text fusion improvements
 
 </details>
@@ -89,7 +88,7 @@ My research sits at the intersection of **deep learning transparency** and **cli
 
 - Modular RAG pipeline over **text + images + audio**
 - Integrated **Florence-2** (captioning) · **Whisper** (transcription) · **DocLayout-YOLO** (parsing)
-- **E5-small-v2** embeddings + **FAISS** retrieval — **94% faithfulness**, **250ms** avg latency
+- **E5-small-v2** embeddings + **FAISS** retrieval → **94% faithfulness**, **250ms** avg latency
 - Deployed via **Docker** with **MLflow** tracking + LLM-as-a-judge evaluation suite
 
 </details>
@@ -135,6 +134,17 @@ Edge Systems     ██████████░░░░░░░░░░  C
 
 ---
 
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-abdelhalim__youcef%40univ--biskra.dz-0D1B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhalim_youcef@univ-biskra.dz)
+[![Kaggle](https://img.shields.io/badge/Kaggle-abdelhalimyoucef-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abdelhalimyoucef)
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -147,17 +157,6 @@ Edge Systems     ██████████░░░░░░░░░░  C
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=halim7youcef&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-abdelhalim__youcef%40univ--biskra.dz-0D1B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhalim_youcef@univ-biskra.dz)
-[![Kaggle](https://img.shields.io/badge/Kaggle-abdelhalimyoucef-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abdelhalimyoucef)
 
 </div>
 
