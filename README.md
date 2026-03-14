@@ -125,10 +125,10 @@ My research sits at the intersection of **deep learning transparency** and **cli
 ## Research Interests
 
 ```
-Computer Vision  ████████████████████  Semantic / Instance Segmentation
+Computer Vision  ████████████████████  Semantic / Instance Segmentation / Object Detection / Classification
 Medical Imaging  ████████████████░░░░  3D Volumetric Analysis
-Explainable AI   ███████████████░░░░░  Grad-CAM · IG · Guided Backprop
-Multimodal AI    ████████████░░░░░░░░  Vision-Language · RAG · CLIP/DINO
+Explainable AI   ███████████████░░░░░  Grad-CAM · IG · Guided Backprop 
+Multimodal AI    ████████████░░░░░░░░  Vision-Language · Vision Large-Language
 Edge Systems     ██████████░░░░░░░░░░  CUDA · cuDNN · Jetson Deployment
 ```
 
